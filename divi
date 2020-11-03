@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i,900&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="1.css">
+    <title>DIVI</title>
+</head>
+
+<body>
+    <nav id="nav">
+        <ul>
+            <li><a href="#home">DIVI</a></li>
+            <li><a href="#service-container">ALL PRODUCTS</a></li>
+            <li><a href="#client-section">CONTACT</a></li>
+            <li><a href="#contact">ACCOUNT</a></li>
+            <!-- <li><a href="#contact" id="pr">PRICING</a></li> -->
+        </ul>
+        <ul><a href="#contact" id="pr">PRICING</a></ul>
+    </nav>
+    <section id="home"></section>
+
+</body>
+
+</html>
